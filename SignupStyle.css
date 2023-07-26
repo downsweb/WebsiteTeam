@@ -1,0 +1,57 @@
+*
+{
+    font-family: 'Lunasima', sans-serif;
+}
+
+
+body
+{
+    background-color: rgb(135, 119, 19);
+    
+}
+.Please
+{
+    font-size: 20px;
+    text-align: center;
+}
+
+
+.LoginBox
+{
+  margin: 100px auto;
+  width: 350px;
+  background-color: azure;  
+  padding: 60px;
+}
+
+.logo, img
+{
+   width: 100%;
+}
+.MainText, .SubText
+{
+    text-align: center;
+    color: black;
+    font-size: 40px;
+}
+
+.form input
+{
+    border: none;
+    background: none;
+    outline: none;
+}
+
+.username, .password
+{
+    border-radius: 30px;
+    border: solid;
+}
+
+.LogButt
+{
+    border-radius: 30px;
+    width: 100%;
+    
+    background-color: rgb(135, 119, 19);
+}
